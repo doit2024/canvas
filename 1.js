@@ -7,6 +7,8 @@
  * Y ： y偏移
  */
 
+ // fture
+
 
 const w = 600;  // 画布宽
 const h = 600;  // 画布高
