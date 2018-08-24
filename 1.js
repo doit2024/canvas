@@ -6,16 +6,13 @@
  * X ： x偏移
  * Y ： y偏移
  */
-
- // fture
-
-
+ 
 const w = 600;  // 画布宽
 const h = 600;  // 画布高
 const line = {
-  color: '#f80',
-  width: 2,
-  A: 30,
+  color: '#000',
+  width: 0.5,
+  A: 20,
   B: 1 / 3,
   X: 3,
   Y: h / 2
